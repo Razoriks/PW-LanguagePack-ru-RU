@@ -1,1 +1,27 @@
-{"file":"wire\/modules\/Process\/ProcessPageLister\/ProcessPageListerBookmarks.php","textdomain":"wire--modules--process--processpagelister--processpagelisterbookmarks-php","translations":[]}
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageListerBookmarks.php",
+    "textdomain": "wire--modules--process--processpagelister--processpagelisterbookmarks-php",
+    "translations": {
+        "149e49fd8162d8224947dfe253a802b5": {
+            "text": "\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u0437\u0430\u043a\u043b\u0430\u0434\u043a\u0443"
+        },
+        "84233339a29fc410e77ac95e377b0318": {
+            "text": "\u0417\u0430\u043a\u043b\u0430\u0434\u043a\u0438"
+        },
+        "bdb19863504282bccbd04237092c8ecb": {
+            "text": "\u0417\u0430\u043a\u043b\u0430\u0434\u043a\u0430"
+        },
+        "0a88328254c6d3104aaf5aa1416e5493": {
+            "text": "\u0414\u043e\u0441\u0442\u0443\u043f"
+        },
+        "97d0cf512abc18c75dc4200fb4102696": {
+            "text": "\u0432\u0441\u0435"
+        },
+        "fbfa318e948c32434209e9dec12f5342": {
+            "text": "\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c"
+        },
+        "624cb003e73151369680ecae1fe53f47": {
+            "text": "\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435"
+        }
+    }
+}
