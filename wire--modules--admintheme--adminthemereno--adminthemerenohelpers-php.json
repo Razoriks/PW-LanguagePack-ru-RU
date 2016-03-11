@@ -1,1 +1,18 @@
-{"file":"wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeRenoHelpers.php","textdomain":"wire--modules--admintheme--adminthemereno--adminthemerenohelpers-php","translations":[]}
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeRenoHelpers.php",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemerenohelpers-php",
+    "translations": {
+        "e8209ff97e2fd1fd89a08e2dbee3673c": {
+            "text": "\u0424\u043e\u0440\u0443\u043c \u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438"
+        },
+        "5b6cf869265c13af8566f192b4ab3d2a": {
+            "text": "\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044f"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "\u041f\u0440\u043e\u0444\u0438\u043b\u044c"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "\u0412\u044b\u0439\u0442\u0438"
+        }
+    }
+}
