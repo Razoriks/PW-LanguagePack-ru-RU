@@ -1,1 +1,39 @@
-{"file":"wire\/modules\/LanguageSupport\/ProcessLanguage.module","textdomain":"wire--modules--languagesupport--processlanguage-module","translations":{"8327b21ed9628232c90353c7c08ad16f":{"text":"\u043d\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f %d"},"c4337ed7fd3fa9186398110fdd126ba0":{"text":"\u043f\u0443\u0441\u0442\u044b\u0445 %d"},"9b73fd4d710e72a212bfc7dbe5692405":{"text":"\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c ZIP"},"3a08e2e340ab29fd9263af48193cbf8e":{"text":"\u042f\u0437\u044b\u043a\u0438"},"8ff1c082c6dbbbb942d86d0620b18aca":{"text":"\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u043c\u0438 \u044f\u0437\u044b\u043a\u0430\u043c\u0438"},"1514a1c310fe6db41aeda8f1b1006713":{"text":"\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c"},"897d3357128f316af8d6a605c545a702":{"text":"%d \u0444\u0440\u0430\u0437\u0430"},"f38977b9226f40d3b86bae7d9611a880":{"text":"%d \u0444\u0440\u0430\u0437\u044b"},"4b58cc72fab0b5fb596e9f02091ec0fe":{"text":"\u0424\u0430\u0439\u043b \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430"}}}
+{
+    "file": "wire\/modules\/LanguageSupport\/ProcessLanguage.module",
+    "textdomain": "wire--modules--languagesupport--processlanguage-module",
+    "translations": {
+        "8327b21ed9628232c90353c7c08ad16f": {
+            "text": "\u043d\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f %d"
+        },
+        "c4337ed7fd3fa9186398110fdd126ba0": {
+            "text": "\u043f\u0443\u0441\u0442\u044b\u0445 %d"
+        },
+        "9b73fd4d710e72a212bfc7dbe5692405": {
+            "text": "\u0421\u043a\u0430\u0447\u0430\u0442\u044c ZIP"
+        },
+        "3a08e2e340ab29fd9263af48193cbf8e": {
+            "text": "\u042f\u0437\u044b\u043a\u0438"
+        },
+        "8ff1c082c6dbbbb942d86d0620b18aca": {
+            "text": "\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u044b\u043c\u0438 \u044f\u0437\u044b\u043a\u0430\u043c\u0438"
+        },
+        "1514a1c310fe6db41aeda8f1b1006713": {
+            "text": "\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c"
+        },
+        "897d3357128f316af8d6a605c545a702": {
+            "text": "%d \u0444\u0440\u0430\u0437\u0430"
+        },
+        "f38977b9226f40d3b86bae7d9611a880": {
+            "text": "%d \u0444\u0440\u0430\u0437\u044b"
+        },
+        "eb277f118345e1e4c0f1b81cec469ee9": {
+            "text": "\u0416\u0438\u0432\u043e\u0439 \u041f\u043e\u0438\u0441\u043a"
+        },
+        "7ccfd146fb192231dafacaa68c6fad13": {
+            "text": "\u041d\u0430\u0439\u0442\u0438 \u0424\u0430\u0439\u043b\u044b \u0434\u043b\u044f \u041f\u0435\u0440\u0435\u0432\u043e\u0434\u0430"
+        },
+        "54df9536f2bc89e18bec27b0d34ab42e": {
+            "text": "\u0421\u043a\u0430\u0447\u0430\u0442\u044c CSV"
+        }
+    }
+}
