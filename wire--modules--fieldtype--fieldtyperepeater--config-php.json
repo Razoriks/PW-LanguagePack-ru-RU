@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--config-php",
+    "translations": {
+        "d347b63bb97431df68506ea3059be495": {
+            "text": "\u042f\u0440\u043b\u044b\u043a \u0434\u043b\u044f \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u043e\u0432\u043e\u0433\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430"
+        },
+        "90ed744894b90ce9c561d6a428cad4ee": {
+            "text": "\u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432"
+        },
+        "f504e6acf8424e003e90434b8f4ada08": {
+            "text": "\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432"
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u041f\u043e\u043b\u0435"
+        }
+    }
+}
