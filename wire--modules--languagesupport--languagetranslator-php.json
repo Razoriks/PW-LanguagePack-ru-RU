@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageTranslator.php",
+    "textdomain": "wire--modules--languagesupport--languagetranslator-php",
+    "translations": {
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c"
+        },
+        "4ec2fa1aa32d93e6fd11a255fc3507bc": {
+            "text": "\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c + \u0417\u0430\u043a\u0440\u044b\u0442\u044c"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "\u041e\u0442\u043c\u0435\u043d\u0438\u0442\u044c"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "\u0418\u043c\u043f\u043e\u0440\u0442"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "\u042d\u043a\u0441\u043f\u043e\u0440\u0442"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "\u0414\u0430"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "\u041d\u0435\u0442"
+        },
+        "0a52730597fb4ffa01fc117d9e71e3a9": {
+            "text": "\u041f\u0440\u0438\u043c\u0435\u0440"
+        },
+        "902b0d55fddef6f8d651fe1035b7d4bd": {
+            "text": "\u041e\u0448\u0438\u0431\u043a\u0430"
+        }
+    }
+}
